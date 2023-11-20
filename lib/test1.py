@@ -73,7 +73,6 @@ for city in uniqueCity:
 
 dataStatistic["totalViews"] = totalValueViews
 dataStatistic["meanViews"] = totalValueViews / totalDataViews
-dataStatistic["min"] = lambda k: k["views"]
 
 output_sorted_by_views_asc = sorted(output, key=lambda k: k['views'], reverse=False)
 
