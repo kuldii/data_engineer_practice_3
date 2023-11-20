@@ -1,0 +1,330 @@
+[
+    {
+        "city": "Лас-Росас",
+        "totalData": 12
+    },
+    {
+        "city": "Бланес",
+        "totalData": 11
+    },
+    {
+        "city": "Краков",
+        "totalData": 14
+    },
+    {
+        "city": "Душанбе",
+        "totalData": 11
+    },
+    {
+        "city": "Астана",
+        "totalData": 17
+    },
+    {
+        "city": "Луго",
+        "totalData": 13
+    },
+    {
+        "city": "Валенсия",
+        "totalData": 10
+    },
+    {
+        "city": "Севилья",
+        "totalData": 9
+    },
+    {
+        "city": "Москва",
+        "totalData": 8
+    },
+    {
+        "city": "Навалькарнеро",
+        "totalData": 9
+    },
+    {
+        "city": "Мартоса",
+        "totalData": 9
+    },
+    {
+        "city": "Гранада",
+        "totalData": 16
+    },
+    {
+        "city": "Прага",
+        "totalData": 13
+    },
+    {
+        "city": "Алма-Ата",
+        "totalData": 13
+    },
+    {
+        "city": "Вроцлав",
+        "totalData": 9
+    },
+    {
+        "city": "Подгорица",
+        "totalData": 18
+    },
+    {
+        "city": "Минск",
+        "totalData": 9
+    },
+    {
+        "city": "Барселона",
+        "totalData": 18
+    },
+    {
+        "city": "Сеговия",
+        "totalData": 13
+    },
+    {
+        "city": "Сория",
+        "totalData": 14
+    },
+    {
+        "city": "Тудела",
+        "totalData": 17
+    },
+    {
+        "city": "Хихон",
+        "totalData": 24
+    },
+    {
+        "city": "Киев",
+        "totalData": 11
+    },
+    {
+        "city": "Алькала-де-Энарес",
+        "totalData": 11
+    },
+    {
+        "city": "Мерида",
+        "totalData": 14
+    },
+    {
+        "city": "Льейда",
+        "totalData": 10
+    },
+    {
+        "city": "Мурсия",
+        "totalData": 10
+    },
+    {
+        "city": "Монсон",
+        "totalData": 16
+    },
+    {
+        "city": "Осера",
+        "totalData": 19
+    },
+    {
+        "city": "Загреб",
+        "totalData": 7
+    },
+    {
+        "city": "Камбадос",
+        "totalData": 17
+    },
+    {
+        "city": "Ла-Корунья",
+        "totalData": 5
+    },
+    {
+        "city": "Афины",
+        "totalData": 8
+    },
+    {
+        "city": "Будапешт",
+        "totalData": 12
+    },
+    {
+        "city": "Скопье",
+        "totalData": 12
+    },
+    {
+        "city": "Хельсинки",
+        "totalData": 13
+    },
+    {
+        "city": "Пласенсия",
+        "totalData": 13
+    },
+    {
+        "city": "Варшава",
+        "totalData": 10
+    },
+    {
+        "city": "Аликанте",
+        "totalData": 9
+    },
+    {
+        "city": "Тбилиси",
+        "totalData": 17
+    },
+    {
+        "city": "Вильнюс",
+        "totalData": 12
+    },
+    {
+        "city": "Кадакес",
+        "totalData": 6
+    },
+    {
+        "city": "Самора",
+        "totalData": 8
+    },
+    {
+        "city": "Бильбао",
+        "totalData": 14
+    },
+    {
+        "city": "Куэнка",
+        "totalData": 13
+    },
+    {
+        "city": "Вальядолид",
+        "totalData": 20
+    },
+    {
+        "city": "Виго",
+        "totalData": 4
+    },
+    {
+        "city": "Тирана",
+        "totalData": 14
+    },
+    {
+        "city": "Эльче",
+        "totalData": 14
+    },
+    {
+        "city": "Сан-Себастьян",
+        "totalData": 13
+    },
+    {
+        "city": "Сьюдад-Реаль",
+        "totalData": 12
+    },
+    {
+        "city": "Мадрид",
+        "totalData": 13
+    },
+    {
+        "city": "Артейхо",
+        "totalData": 16
+    },
+    {
+        "city": "Рига",
+        "totalData": 17
+    },
+    {
+        "city": "Санхенхо",
+        "totalData": 11
+    },
+    {
+        "city": "Малага",
+        "totalData": 14
+    },
+    {
+        "city": "Сантьяго-де-Компостела",
+        "totalData": 20
+    },
+    {
+        "city": "Фигерас",
+        "totalData": 9
+    },
+    {
+        "city": "Санкт-Петербург",
+        "totalData": 12
+    },
+    {
+        "city": "Бургос",
+        "totalData": 17
+    },
+    {
+        "city": "Кордова",
+        "totalData": 15
+    },
+    {
+        "city": "Сараево",
+        "totalData": 8
+    },
+    {
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "totalData": 7
+    },
+    {
+        "city": "Таллин",
+        "totalData": 5
+    },
+    {
+        "city": "Луарка",
+        "totalData": 13
+    },
+    {
+        "city": "Тарраса",
+        "totalData": 9
+    },
+    {
+        "city": "Вильявисиоса",
+        "totalData": 11
+    },
+    {
+        "city": "Ташкент",
+        "totalData": 7
+    },
+    {
+        "city": "Картахена",
+        "totalData": 13
+    },
+    {
+        "city": "София",
+        "totalData": 10
+    },
+    {
+        "city": "Семана",
+        "totalData": 14
+    },
+    {
+        "city": "Овьедо",
+        "totalData": 12
+    },
+    {
+        "city": "Махадаонда",
+        "totalData": 16
+    },
+    {
+        "city": "Любляна",
+        "totalData": 9
+    },
+    {
+        "city": "Баку",
+        "totalData": 11
+    },
+    {
+        "city": "Бишкек",
+        "totalData": 12
+    },
+    {
+        "city": "Белград",
+        "totalData": 15
+    },
+    {
+        "city": "Ереван",
+        "totalData": 11
+    },
+    {
+        "city": "Авилес",
+        "totalData": 7
+    },
+    {
+        "city": "Касерес",
+        "totalData": 13
+    },
+    {
+        "city": "Кишинев",
+        "totalData": 8
+    },
+    {
+        "city": "Трухильо",
+        "totalData": 13
+    }
+]
