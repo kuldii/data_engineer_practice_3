@@ -1,0 +1,66 @@
+[
+    {
+        "category": "Belts",
+        "totalData": 171
+    },
+    {
+        "category": "Dress",
+        "totalData": 196
+    },
+    {
+        "category": "Shoes",
+        "totalData": 192
+    },
+    {
+        "category": "Shirt",
+        "totalData": 190
+    },
+    {
+        "category": "Blouse",
+        "totalData": 183
+    },
+    {
+        "category": "Sweater",
+        "totalData": 187
+    },
+    {
+        "category": "Pants",
+        "totalData": 183
+    },
+    {
+        "category": "Handbags",
+        "totalData": 204
+    },
+    {
+        "category": "Umbrellas",
+        "totalData": 189
+    },
+    {
+        "category": "Gloves",
+        "totalData": 181
+    },
+    {
+        "category": "T-shirt",
+        "totalData": 177
+    },
+    {
+        "category": "Jacket",
+        "totalData": 170
+    },
+    {
+        "category": "Hat",
+        "totalData": 198
+    },
+    {
+        "category": "Jeans",
+        "totalData": 167
+    },
+    {
+        "category": "Socks",
+        "totalData": 179
+    },
+    {
+        "category": "Skirt",
+        "totalData": 177
+    }
+]
