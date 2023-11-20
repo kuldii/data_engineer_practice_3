@@ -77,12 +77,12 @@ dataStatistic["min"] = lambda k: k["views"]
 
 output_sorted_by_views_asc = sorted(output, key=lambda k: k['views'], reverse=False)
 
-dataStatistic["min"] = output_sorted_by_views_asc[0]["views"]
-dataStatistic["max"] = output_sorted_by_views_asc[len(output_sorted_by_views_asc)-1]["views"]
+dataStatistic["min"] = int(output_sorted_by_views_asc[0]["views"])
+dataStatistic["max"] = int(output_sorted_by_views_asc[len(output_sorted_by_views_asc)-1]["views"])
 if(len(output_sorted_by_views_asc) % 2 == 1):
-    dataStatistic["median"] = output_sorted_by_views_asc[int(len(output_sorted_by_views_asc)/2)]["views"]
+    dataStatistic["median"] = int(output_sorted_by_views_asc[int(len(output_sorted_by_views_asc)/2)]["views"])
 else:
-    dataStatistic["median"] = (int(output_sorted_by_views_asc[int(len(output_sorted_by_views_asc)/2)]["views"]) + int(output_sorted_by_views_asc[int(len(output_sorted_by_views_asc)/2)-1]["views"])) / 2
+    dataStatistic["median"] = float((int(output_sorted_by_views_asc[int(len(output_sorted_by_views_asc)/2)]["views"]) + int(output_sorted_by_views_asc[int(len(output_sorted_by_views_asc)/2)-1]["views"])) / 2)
     
 dataStatistic["range"] = int(dataStatistic["max"]) - int(dataStatistic["min"])
 
@@ -94,3 +94,5 @@ with open("assets/output/1/output_sorted_by_rating_desc.json", "w") as outfile:
     json.dump(output_sorted_by_rating_desc, outfile, indent=4, ensure_ascii=False)
 with open("assets/output/1/output_city.json", "w") as outfile:
     json.dump(outputCity, outfile, indent=4, ensure_ascii=False)
+with open("assets/output/1/output_statistic.json", "w") as outfile:
+    json.dump(dataStatistic, outfile, indent=4, ensure_ascii=False)
